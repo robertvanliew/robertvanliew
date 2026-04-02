@@ -13,7 +13,7 @@ My work combines experience in **product development**, **brand growth**, and **
 
 - # 💻 Projects & Highlights  
 - 🔗 Portfolio: [Your Portfolio Link](https://your-portfolio.com)  
-- 🌍 Personal Website: [Money Mindful Creator](https://www.moneymindfulcreator.com)  
+- 🌍 Personal Website: [Graphlynk](https://www.graphlynk.com)  
 - 📰 Recent Work: SEO-optimized blogs and digital marketing tools for creators and entrepreneurs, Credit Genius App, and more. 
 - 🧩 Favorite Tools: VS Code, Git, Figma, Notion, and ChatGPT
 
