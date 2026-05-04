@@ -1,6 +1,6 @@
 ### Hi, I'm Robert 👋
 
-💡 **Product Manager | SEO + PR Strategist | Web Developer**
+💡 **Product Designer | Full Stack Developer | Technical Product Manager 
 
 I’m passionate about building digital products that blend **strategic storytelling**, **user-focused design**, and **technical innovation**.  
 My work combines experience in **product development**, **brand growth**, and **web optimization** to deliver scalable, data-driven results.
@@ -12,8 +12,7 @@ My work combines experience in **product development**, **brand growth**, and **
 ---
 
 - # 💻 Projects & Highlights  
-- 🔗 Portfolio: [Your Portfolio Link](https://your-portfolio.com)  
-- 🌍 Personal Website: [Graphlynk](https://www.graphlynk.com)  
+- 🔗 Portfolio: [Your Portfolio Link](https://robertvanliew.com)  
 - 📰 Recent Work: SEO-optimized blogs and digital marketing tools for creators and entrepreneurs, Credit Genius App, and more. 
 - 🧩 Favorite Tools: VS Code, Git, Figma, Notion, and ChatGPT
 
